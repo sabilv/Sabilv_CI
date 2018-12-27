@@ -13,7 +13,7 @@
             </a>
             <p class="post-meta">Posted by
                <a href="#"><?php echo $author; ?></a>
-               on September 24, 2018
+               on December 24, 2018
             </p>
          </div>
          <hr>
@@ -28,7 +28,7 @@
             </a>
             <p class="post-meta">Posted by
                <a href="#"><?php echo $author; ?></a>
-               on September 18, 2018
+               on December 18, 2018
             </p>
          </div>
          <hr>
@@ -43,7 +43,7 @@
             </a>
             <p class="post-meta">Posted by
                <a href="#"><?php echo $author; ?></a>
-               on August 24, 2018
+               on December 24, 2018
             </p>
          </div>
          <hr>
@@ -58,7 +58,7 @@
             </a>
             <p class="post-meta">Posted by
                <a href="#"><?php echo $author; ?></a>
-               on July 8, 2018
+               on December 8, 2018
             </p>
          </div>
          <hr>
