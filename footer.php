@@ -31,7 +31,7 @@
                 </a>
               </li>
             </ul>
-            <p class="copyright text-muted">Copyright &copy; sabilv 2018</p>
+            <p class="copyright text-muted">Copyright &copy; Your Website 2018</p>
           </div>
         </div>
       </div>

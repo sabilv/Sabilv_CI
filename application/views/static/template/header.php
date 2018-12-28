@@ -65,6 +65,7 @@
                     <div class="navbar-nav">
                         <a class="nav-item nav-link" href="<?= base_url(); ?>">Home</a>
                         <a class="nav-item nav-link" href="<?= base_url(); ?>about">About</a>
+                        <a class="nav-item nav-link" href="<?= base_url(); ?>playlist">Playlist</a>
                         <a class="nav-item nav-link" href="<?= base_url(); ?>blog"">Blog</a>
                         <a class="nav-item nav-link" href="<?= base_url(); ?>contact"">Contact</a>
                     </div>

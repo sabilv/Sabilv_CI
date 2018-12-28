@@ -12,6 +12,11 @@
     </div>
     <!-- end of Jumbotron Header -->
 
+    <hr/>
 
+    <div class="jumbotron text-center">
+
+        
+    </div>
 
 </div>
