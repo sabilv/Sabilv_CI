@@ -36,6 +36,18 @@
 
         <!-- End of  Start Bootstrap - Clean Blog v5.0.2 -->
 
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131451660-1"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-131451660-1');
+        </script>
+
+
         <title>Sabilv.xyz - <?php echo $judul; ?></title>
     </head>
     <body>
