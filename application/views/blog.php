@@ -1,13 +1,13 @@
  <!-- Page Header -->
-        <!-- Photo by Plush Design Studio on Unsplash -->
-        <header class="masthead" style="background-image: url('<?php echo base_url('assets/img/plush-design-studio-483666-unsplash.jpg'); ?>')">
+        <!-- Photo by Plush Design Studio on Unsplash https://unsplash.com/photos/l3N9Q27zULw -->
+        <header class="masthead" style="background-image: url('<?php echo base_url('assets/img/plush-design-studio-483666-unsplash.jpg'); ?>');">
         <div class="overlay"></div>
         <div class="container">
             <div class="row">
             <div class="col-lg-8 col-md-10 mx-auto">
                 <div class="site-heading">
-                <h1>@sabilv</h1>
-                <span class="subheading">Let's Talk.</span>
+                  <h1>Blog @sabilv</h1>
+                  <span class="subheading">Let's Talk.</span>
                 </div>
             </div>
             </div>

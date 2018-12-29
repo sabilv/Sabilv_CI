@@ -1,6 +1,6 @@
     <div class="jumbotron text-center">
         <h1 class=>Sabilv's Top 20 on <i class="fab fa-spotify"></i> spotify</h1>
-       <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut quibusdam veritatis quod, optio, labore expedita consequuntur atque modi, exercitationem cum perferendis natus quasi sint aperiam officia iusto inventore quos soluta.</p>
+       <p>Hello, welcome to my Top 20 Playlist on <i class="fab fa-spotify"></i> spotify. go follow, will update weekly.</p>
     </div>
 
     <section class="playlist" id="playlist">
