@@ -1,8 +1,6 @@
-<div class="container mt-3">
-
+<div class="container">
   <div class="form-sec">
     <h4>Contact form</h4>
-
     <form name="qryform" id="qryform" method="post" action="mail.php" onsubmit="return(validate());" novalidate="novalidate">
       <div class="form-group">
         <label>Name:</label>
@@ -21,16 +19,21 @@
         <label>Subject:</label>
         <input type="text" class="form-control" id="name" placeholder="Subject" name="subject">
       </div>
-
       <div class="form-group">
         <label>Questions:</label>
         <textarea name="issues" class="form-control" id="iq" placeholder="Enter your Questions, please be nice"></textarea>
       </div>
-
-
+      <div class="form-group">
+          <script>
+          grecaptcha.ready(function() {
+          grecaptcha.execute('6LcTYIUUAAAAANJcsPjCY1dWeIxZqYEa8zt-WBBz', {action: 'action_name'})
+          .then(function(token) {
+          // Verify the token on the server.
+          });
+          });
+          </script>
+      </div>
       <button type="submit" class="btn btn-primary">Submit</button>
     </form>
   </div>
-
-
 </div>
